@@ -25,6 +25,7 @@ namespace TuscService.Controllers
         [Route("products")]
         public IEnumerable<Product> GetProductsWithStock(bool hasStock)
         {
+
             // TODO
             return null;
         }
